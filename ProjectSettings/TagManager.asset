@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 3
   tags:
   - Anchor
+  - Sell
+  - SpawnedPrefab1
+  - SpawnedPrefab2
   layers:
   - Default
   - TransparentFX
